@@ -1,0 +1,13 @@
+setup.py
+ScrapydWeb_demo/__init__.py
+ScrapydWeb_demo/items.py
+ScrapydWeb_demo/middlewares.py
+ScrapydWeb_demo/pipelines.py
+ScrapydWeb_demo/settings.py
+ScrapydWeb_demo/spiders/__init__.py
+ScrapydWeb_demo/spiders/test.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
